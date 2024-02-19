@@ -7,6 +7,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 
 
 ### Day 1
+- Company tour
 - Basic environment setup
 - C# introduction
 
