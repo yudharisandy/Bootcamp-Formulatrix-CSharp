@@ -1,0 +1,42 @@
+D:\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.exe
+D:\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.deps.json
+D:\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.runtimeconfig.json
+D:\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.dll
+D:\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.pdb
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfoInputs.cache
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfo.cs
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.csproj.CoreCompileInputs.cache
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.dll
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\refint\ProjectA.dll
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.pdb
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.genruntimeconfig.cache
+D:\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ref\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfoInputs.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfo.cs
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.csproj.CoreCompileInputs.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\refint\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.pdb
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.exe
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.deps.json
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.runtimeconfig.json
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\bin\Debug\net8.0\ProjectA.pdb
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ProjectA.genruntimeconfig.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\yudha_bootcamp_b9\ProjectA\obj\Debug\net8.0\ref\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\bin\Debug\net8.0\ProjectA.exe
+e:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\bin\Debug\net8.0\ProjectA.deps.json
+e:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\bin\Debug\net8.0\ProjectA.runtimeconfig.json
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\bin\Debug\net8.0\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\bin\Debug\net8.0\ProjectA.pdb
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ProjectA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfoInputs.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ProjectA.AssemblyInfo.cs
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ProjectA.csproj.CoreCompileInputs.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\refint\ProjectA.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ProjectA.pdb
+e:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ProjectA.genruntimeconfig.cache
+e:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\Day 1\Day 1\ProjectA\obj\Debug\net8.0\ref\ProjectA.dll
