@@ -4,6 +4,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 
 ## Table of Content(s)
 - [Day 1 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-C-/tree/main/Day%201)
+- [Day 2 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%202)
 
 
 ### Day 1
@@ -11,3 +12,8 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Basic environment setup
 - C# introduction
 
+### Day 2
+- Constructor, Overloading, Composition 
+- Memory shared
+- Inheritance, Encapsulation
+- Access Modifier
