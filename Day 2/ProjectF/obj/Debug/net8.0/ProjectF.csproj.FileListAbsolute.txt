@@ -1,0 +1,14 @@
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ProjectF.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ProjectF.AssemblyInfoInputs.cache
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ProjectF.AssemblyInfo.cs
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ProjectF.csproj.CoreCompileInputs.cache
+D:\bootcamp\Day2\ProjectF\bin\Debug\net8.0\ProjectF.exe
+D:\bootcamp\Day2\ProjectF\bin\Debug\net8.0\ProjectF.deps.json
+D:\bootcamp\Day2\ProjectF\bin\Debug\net8.0\ProjectF.runtimeconfig.json
+D:\bootcamp\Day2\ProjectF\bin\Debug\net8.0\ProjectF.dll
+D:\bootcamp\Day2\ProjectF\bin\Debug\net8.0\ProjectF.pdb
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ProjectF.dll
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\refint\ProjectF.dll
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ProjectF.pdb
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ProjectF.genruntimeconfig.cache
+D:\bootcamp\Day2\ProjectF\obj\Debug\net8.0\ref\ProjectF.dll

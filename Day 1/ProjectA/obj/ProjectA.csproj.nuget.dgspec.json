@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectA\\ProjectA.csproj": {}
+    "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectA\\ProjectA.csproj": {}
   },
   "projects": {
-    "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectA\\ProjectA.csproj": {
+    "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectA\\ProjectA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectA\\ProjectA.csproj",
+        "projectUniqueName": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectA\\ProjectA.csproj",
         "projectName": "ProjectA",
-        "projectPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectA\\ProjectA.csproj",
+        "projectPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectA\\ProjectA.csproj",
         "packagesPath": "C:\\Users\\Yudha Putra Arisandy\\.nuget\\packages\\",
-        "outputPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectA\\obj\\",
+        "outputPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yudha Putra Arisandy\\AppData\\Roaming\\NuGet\\NuGet.Config"

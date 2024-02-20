@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectB\\ProjectB.csproj",
+      "projectUniqueName": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectB\\ProjectB.csproj",
       "projectName": "ProjectB",
-      "projectPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectB\\ProjectB.csproj",
+      "projectPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectB\\ProjectB.csproj",
       "packagesPath": "C:\\Users\\Yudha Putra Arisandy\\.nuget\\packages\\",
-      "outputPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\Day 1\\Day 1\\ProjectB\\obj\\",
+      "outputPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 1\\ProjectB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yudha Putra Arisandy\\AppData\\Roaming\\NuGet\\NuGet.Config"
