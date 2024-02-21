@@ -1,0 +1,15 @@
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.AssemblyInfoInputs.cache
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.AssemblyInfo.cs
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.csproj.CoreCompileInputs.cache
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.sourcelink.json
+D:\bootcamp_batch9\Day 3\ProjectK\bin\Debug\net8.0\ProjectK.exe
+D:\bootcamp_batch9\Day 3\ProjectK\bin\Debug\net8.0\ProjectK.deps.json
+D:\bootcamp_batch9\Day 3\ProjectK\bin\Debug\net8.0\ProjectK.runtimeconfig.json
+D:\bootcamp_batch9\Day 3\ProjectK\bin\Debug\net8.0\ProjectK.dll
+D:\bootcamp_batch9\Day 3\ProjectK\bin\Debug\net8.0\ProjectK.pdb
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.dll
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\refint\ProjectK.dll
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.pdb
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ProjectK.genruntimeconfig.cache
+D:\bootcamp_batch9\Day 3\ProjectK\obj\Debug\net8.0\ref\ProjectK.dll
