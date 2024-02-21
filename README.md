@@ -10,7 +10,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Install a text editor (ex: [VScode](https://code.visualstudio.com/download))
 - Install .NET (ex: [.NET 8.0](https://dotnet.microsoft.com/en-us/download))
 - Install C# Plugins in VSCode
-- Run the code: 'cd to/your/path' then simply 'dotnet run ./Program.cs'
+- Run the code: ```cd to/your/path``` then simply ```dotnet run ./Program.cs```
 
 ### Day 1
 - Company tour
