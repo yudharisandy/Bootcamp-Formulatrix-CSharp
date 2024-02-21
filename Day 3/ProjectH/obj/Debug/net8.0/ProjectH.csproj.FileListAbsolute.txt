@@ -1,0 +1,15 @@
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.AssemblyInfoInputs.cache
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.AssemblyInfo.cs
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.csproj.CoreCompileInputs.cache
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.sourcelink.json
+D:\bootcamp_batch9\Day 3\ProjectH\bin\Debug\net8.0\ProjectH.exe
+D:\bootcamp_batch9\Day 3\ProjectH\bin\Debug\net8.0\ProjectH.deps.json
+D:\bootcamp_batch9\Day 3\ProjectH\bin\Debug\net8.0\ProjectH.runtimeconfig.json
+D:\bootcamp_batch9\Day 3\ProjectH\bin\Debug\net8.0\ProjectH.dll
+D:\bootcamp_batch9\Day 3\ProjectH\bin\Debug\net8.0\ProjectH.pdb
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.dll
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\refint\ProjectH.dll
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.pdb
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ProjectH.genruntimeconfig.cache
+D:\bootcamp_batch9\Day 3\ProjectH\obj\Debug\net8.0\ref\ProjectH.dll
