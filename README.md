@@ -11,7 +11,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Install a text editor (ex: [VScode](https://code.visualstudio.com/download))
 - Install .NET (ex: [.NET 8.0](https://dotnet.microsoft.com/en-us/download))
 - Install C# Plugins in VSCode
-- Run the code: ```cd to/your/path``` then simply ```dotnet run ./Program.cs```
+- Run the code: ```cd to/your/path``` then simply ```dotnet run```
 
 ### Day 1
 - Company tour.
@@ -26,5 +26,11 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 
 ### Day 3
 - 2 of 4 OOP Pillars: Polymorphism, Abstraction.
-- Upscalling, Downscalling, Overriding.
+- Upcasting, Downcasting, Overriding.
 - Dynamic, Static, Extention Method, Params. 
+
+### Day 4
+- Properties.
+- Interface.
+- Enum.
+- Generic.
