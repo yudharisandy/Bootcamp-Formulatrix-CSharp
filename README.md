@@ -19,7 +19,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - C# introduction.
 
 ### Day 2
-- Constructor, Overloading, Composition .
+- Constructor, Overloading, Composition.
 - Memory shared for different data type.
 - 2 of 4 OOP Pillars: Inheritance, Encapsulation.
 - Access Modifier.
