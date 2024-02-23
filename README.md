@@ -37,4 +37,5 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Generic.
 
 ### Day 5
-- Ref and Out.
+- Ref, Out, In.
+- Delegate.
