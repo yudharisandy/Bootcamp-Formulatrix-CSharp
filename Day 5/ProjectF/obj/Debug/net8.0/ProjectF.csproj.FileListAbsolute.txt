@@ -1,0 +1,15 @@
+D:\bootcamp_batch9\Day 5\ProjectF\bin\Debug\net8.0\ProjectF.exe
+D:\bootcamp_batch9\Day 5\ProjectF\bin\Debug\net8.0\ProjectF.deps.json
+D:\bootcamp_batch9\Day 5\ProjectF\bin\Debug\net8.0\ProjectF.runtimeconfig.json
+D:\bootcamp_batch9\Day 5\ProjectF\bin\Debug\net8.0\ProjectF.dll
+D:\bootcamp_batch9\Day 5\ProjectF\bin\Debug\net8.0\ProjectF.pdb
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.AssemblyInfoInputs.cache
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.AssemblyInfo.cs
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.csproj.CoreCompileInputs.cache
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.sourcelink.json
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.dll
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\refint\ProjectF.dll
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.pdb
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ProjectF.genruntimeconfig.cache
+D:\bootcamp_batch9\Day 5\ProjectF\obj\Debug\net8.0\ref\ProjectF.dll

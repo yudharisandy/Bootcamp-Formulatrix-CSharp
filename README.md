@@ -40,3 +40,4 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 ### Day 5
 - Ref, Out, In.
 - Delegate.
+- Error type, Exception try-catch, Exception Handling.
