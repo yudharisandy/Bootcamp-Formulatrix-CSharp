@@ -1,5 +1,6 @@
 namespace FoobarApp;
 
+
 public class Foobar
 {
     private Func<int, string> _checkFooBarNum;
@@ -14,22 +15,17 @@ public class Foobar
         _checkFooBarNum += CheckBar;
         _checkFooBarNum += CheckNum;
     }
-    public void Calculate(int userInputInt){
-        for(int i = 0; i <= userInputInt; i++){            
-            // Reset _status in each iteration
-            _status = ""; 
-            
+    public string Calculate(int userInputInt){
+        _status = "";
+        for(int i = 0; i <= userInputInt; i++){                        
             // Iterate over each method in _checkFooBarNum Delegate (CheckFoo -> CheckBar -> CheckNum)
             foreach (Func<int, string> myDel in _checkFooBarNum.GetInvocationList()){
                 _status += myDel.Invoke(i);
             }
-
             // Add comma or period.
             _status += AddCommaPeriod(i, userInputInt); 
-
-            // Print all result
-            Console.Write(_status);
         }
+        return _status;
     }
     private string CheckFoo(int i){
         // If i is the multiplication of _foo = 3 and Non-zero

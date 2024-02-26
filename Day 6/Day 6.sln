@@ -7,11 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectA", "ProjectA\Projec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectB", "ProjectB\ProjectB.csproj", "{288E2A10-50AC-40B4-90E2-0507C6838C70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar", "ProjectC\ProjectC.csproj", "{532068BD-4EF7-4F63-826E-D6E6CC6D8997}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectD", "ProjectD\ProjectD.csproj", "{5CAE9650-902D-4B8C-9059-700E4DC97826}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar", "Foobar\Foobar.csproj", "{90360CF7-4524-4EC0-9ADC-B15B22A0E80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectE", "ProjectE\ProjectE.csproj", "{2DD4965B-BD2C-422E-9690-24089D31750F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectF", "ProjectF\ProjectF.csproj", "{764DD51A-B23E-48A1-8722-940F334184B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +44,13 @@ Global
 		{90360CF7-4524-4EC0-9ADC-B15B22A0E80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90360CF7-4524-4EC0-9ADC-B15B22A0E80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90360CF7-4524-4EC0-9ADC-B15B22A0E80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD4965B-BD2C-422E-9690-24089D31750F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD4965B-BD2C-422E-9690-24089D31750F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD4965B-BD2C-422E-9690-24089D31750F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD4965B-BD2C-422E-9690-24089D31750F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764DD51A-B23E-48A1-8722-940F334184B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764DD51A-B23E-48A1-8722-940F334184B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764DD51A-B23E-48A1-8722-940F334184B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764DD51A-B23E-48A1-8722-940F334184B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
