@@ -1,0 +1,15 @@
+D:\bootcamp_batch9\Day 6\Foobar\bin\Debug\net8.0\Foobar.exe
+D:\bootcamp_batch9\Day 6\Foobar\bin\Debug\net8.0\Foobar.deps.json
+D:\bootcamp_batch9\Day 6\Foobar\bin\Debug\net8.0\Foobar.runtimeconfig.json
+D:\bootcamp_batch9\Day 6\Foobar\bin\Debug\net8.0\Foobar.dll
+D:\bootcamp_batch9\Day 6\Foobar\bin\Debug\net8.0\Foobar.pdb
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.AssemblyInfoInputs.cache
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.AssemblyInfo.cs
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.csproj.CoreCompileInputs.cache
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.sourcelink.json
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.dll
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\refint\Foobar.dll
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.pdb
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.genruntimeconfig.cache
+D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\ref\Foobar.dll
