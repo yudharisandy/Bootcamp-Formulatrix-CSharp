@@ -48,5 +48,5 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Anonymous method (Lambda expression).
 - Foobar assignment.
 - Operator overloading.
-- Partial: '''class Program''' method structuring.
-- Collection data type: '''Dictionary''', '''ArrayList''', '''List''', '''LinkedList''', '''HashSet''', '''Stack''', '''Queue'''. 
+- Partial: ```class Program``` method structuring.
+- Collection data type: ```Dictionary```, ```ArrayList```, ```List```, ```LinkedList```, ```HashSet```, ```Stack```, ```Queue```. 
