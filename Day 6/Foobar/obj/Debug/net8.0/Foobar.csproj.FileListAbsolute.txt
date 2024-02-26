@@ -13,3 +13,18 @@ D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\refint\Foobar.dll
 D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.pdb
 D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\Foobar.genruntimeconfig.cache
 D:\bootcamp_batch9\Day 6\Foobar\obj\Debug\net8.0\ref\Foobar.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\bin\Debug\net8.0\Foobar.exe
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\bin\Debug\net8.0\Foobar.deps.json
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\bin\Debug\net8.0\Foobar.runtimeconfig.json
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\bin\Debug\net8.0\Foobar.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\bin\Debug\net8.0\Foobar.pdb
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.AssemblyInfoInputs.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.AssemblyInfo.cs
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.csproj.CoreCompileInputs.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.sourcelink.json
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\refint\Foobar.dll
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.pdb
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\Foobar.genruntimeconfig.cache
+E:\Kelapa\Course, Seminar, Pelatihan\2024-2 Formulatrix Bootcamp C#\csharp\Day 6\Foobar\obj\Debug\net8.0\ref\Foobar.dll

@@ -9,19 +9,16 @@ class Program
 {
     static void Main(){
         // Create an instance of Foobar object
-        Foobar foobar = new(3, 5); // Foo, bar
+        Foobar foobar = new();
         
         // Input data to Dictionary
         Data data = new();
+        data.InputData(2, "kiw"); // Need to be sorted
         data.InputData(3, "foo");
         data.InputData(5, "bar");
-
-        // See the data
+        
+        // Retreive and see the data
         Dictionary<int, string> dataBase = data.GetData();
-        foreach (var i in dataBase){
-            Console.Write(i.Key);
-            Console.WriteLine(i.Value);
-        }
 
         // Run the program until interrupted
         while (true){ 
@@ -33,7 +30,7 @@ class Program
             Int32.TryParse(userInput, out int userInputInt);
             
             // Calculate and show
-            string result = foobar.Calculate(userInputInt);
+            string result = foobar.Process(userInputInt, dataBase);
 
             // Example usage: Console App
             Console.WriteLine(result);
