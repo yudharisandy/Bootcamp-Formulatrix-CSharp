@@ -8,6 +8,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 3 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%203)
 - [Day 4 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%204)
 - [Day 5 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%205)
+- [Day 6 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%206)
 
 ### Basic Environment Setup
 - Install a text editor (ex: [VScode](https://code.visualstudio.com/download))
@@ -41,3 +42,11 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Ref, Out, In.
 - Delegate.
 - Error type, Exception try-catch, Exception Handling.
+
+### Day 6
+- Default delegate: Action, Func.
+- Anonymous method (Lambda expression).
+- Foobar assignment.
+- Operator overloading.
+- Partial: '''class Program''' method structuring.
+- Collection data type: '''Dictionary''', '''ArrayList''', '''List''', '''LinkedList''', '''HashSet''', '''Stack''', '''Queue'''. 
