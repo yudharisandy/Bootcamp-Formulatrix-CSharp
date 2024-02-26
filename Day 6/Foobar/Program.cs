@@ -11,7 +11,7 @@ class Program
         // Create an instance of Foobar object
         Foobar foobar = new(3, 5); // Foo, bar
 
-        // Run the program untill there is interruption
+        // Run the program until interrupted
         while (true){ 
             // Receive user's input
             Console.Write("Input number: ");
