@@ -9,6 +9,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 4 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%204)
 - [Day 5 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%205)
 - [Day 6 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%206)
+- [Day 7 Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
 
 ### Basic Environment Setup
 - Install a text editor (ex: [VScode](https://code.visualstudio.com/download))
