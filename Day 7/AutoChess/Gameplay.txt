@@ -25,11 +25,12 @@
     - StopBattle(): <void>
     - StartPreparation(): <List<Pieces>>
     - AddGoldToWinner(): The winner of a gameplay will get Golds.
+    
 - Player: 
     - (Overview) A human player.
-    - id
-    - name
-    - gold: Can be used to do Lottery.HeroLottery().
+    - id: int
+    - name: string
+    - gold: <int> Can be used to do Lottery.HeroLottery().
     - playerLevel
     - SetStrategies
     - PeekOpponentStrength -> return EnemyHeroSet.
