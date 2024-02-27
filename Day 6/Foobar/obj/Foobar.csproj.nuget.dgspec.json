@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 6\\Foobar\\Foobar.csproj": {}
+    "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj": {}
   },
   "projects": {
-    "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 6\\Foobar\\Foobar.csproj": {
+    "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 6\\Foobar\\Foobar.csproj",
+        "projectUniqueName": "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj",
         "projectName": "Foobar",
-        "projectPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 6\\Foobar\\Foobar.csproj",
-        "packagesPath": "C:\\Users\\Yudha Putra Arisandy\\.nuget\\packages\\",
-        "outputPath": "E:\\Kelapa\\Course, Seminar, Pelatihan\\2024-2 Formulatrix Bootcamp C#\\csharp\\Day 6\\Foobar\\obj\\",
+        "projectPath": "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj",
+        "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
+        "outputPath": "D:\\bootcamp_batch9\\Day 6\\Foobar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yudha Putra Arisandy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

@@ -13,9 +13,10 @@ class Program
         
         // Input data to Dictionary
         Data data = new();
-        data.InputData(2, "kiw"); // Need to be sorted
+        // Need to be sorted by value from small to big
         data.InputData(3, "foo");
         data.InputData(5, "bar");
+        data.InputData(7, "baz");
         
         // Retreive and see the data
         Dictionary<int, string> dataBase = data.GetData();
