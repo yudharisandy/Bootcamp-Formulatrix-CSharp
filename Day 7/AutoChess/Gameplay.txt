@@ -1,0 +1,66 @@
+# Auto Chess Gameplay
+
+### Overview
+- Developer: Drodo Studio (released in Later 2019) -> a standalone version of Dota Auto Chess.
+- Genre: Auto Battler.
+- The game features teams of automated heroes fighting battles on a chessboard.
+- Player should arrange strategies/formation of their heros set to win the battle.
+- Player: 8 people
+    - Each player will try to defeat each other.
+    - The winner: The last player standing.
+- 1 gameplay duration: 10 minutes.
+- Heros: has unique capabilities -> could benefit or the opposite (harm).
+    - Each heros could be set on each block on the chessboard.
+    - To get heros: Could be got by lottery in every rounds.
+
+### Possible classes (object):
+- GameController
+    - battleRound: <int> Start from round 1
+    - battlePhase: <int> A timer 
+    - preparationPhase: <int> A timer for setting up Pieces between rounds.
+    - gameMode: <Enum>, Clasic Mode (1), Duo Mode (2), Fantasy Mode (3), Quick Mode (4).
+    - player: List<Player>
+    - sharedCardPool
+    - StartBattle(): <void>
+    - StopBattle(): <void>
+    - StartPreparation(): <List<Pieces>>
+    - AddGoldToWinner(): The winner of a gameplay will get Golds.
+- Player: 
+    - (Overview) A human player.
+    - id
+    - name
+    - gold: Can be used to do Lottery.HeroLottery().
+    - playerLevel
+    - SetStrategies
+    - PeekOpponentStrength -> return EnemyHeroSet.
+- PiecesSet: 
+    - (Overview) Set of heros could be played during a gameplay.
+    - chessPieceFormation: An order of hero (part of player's strategies)
+- Pieces: 
+    - (Overview) An individual hero/piece.
+    - name: <string>
+    - id: <string>
+    - characters: Common, Uncommon, Rare, Epic, Legendary.
+    - races: Pandaman, Civet, Human, Feathered, Demon. 
+    - classes: A family type of hero (1 clan: many heros) -> Knight, Warlock, Mage, Warrior, Hunter.
+    - synergies: the list of races and classes
+    - skills: batteryAssault, 
+    - attributes: hp, attack, armor, attackSpeed, magRes, range
+    - piecesLevel: A certain level of hero (higher is better) -> ex: S+ > S > A > B > C > D or star-1, star-2, star-3.
+    - price: A price to buy/get the hero (in gold).
+- Lottery: 
+    - (Overview) An object for randomly chosen a hero in every rounds
+    - HeroLottery: A lottery method to randomly choose a hero for a player (limited, but could be bought by player's gold if needed)
+- HerosList: 
+    - (Overview) Contain all available heros in the game
+    - type(List<Hero>)
+    - Add: A method to add a Hero object to the list.
+- Lobby: 
+    - (Overview) A term for battlefield (chessboard).  
+
+### References
+- https://ac.dragonest.com/en/gameIntroduction
+- https://ac.dragonest.com/en/charactor
+- https://ac.dragonest.com/en/term
+- https://www.youtube.com/watch?v=myKrPClqK-0
+- https://review.bukalapak.com/
