@@ -50,3 +50,12 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Operator overloading.
 - Partial: ```class Program``` method structuring.
 - Collection data type: ```Dictionary```, ```ArrayList```, ```List```, ```LinkedList```, ```HashSet```, ```Stack```, ```Queue```. 
+
+### Day 7 - Day 11
+- Create class diagram project: Auto Chess game.
+- PLatforms can be used: Mermaid, PlantUML, draw.io.
+- Github gist.
+- Design pattern reference: Facade.
+- Create abstract/interface for every classes.
+- Create object/class -> GameController -> Cardinality.
+
