@@ -1,5 +1,0 @@
-{
-    "accessibility.alert.error": true,
-    "debug.onTaskErrors": "prompt",
-    "errorLens.delay": 500
-}
