@@ -1,4 +1,6 @@
-﻿// Delegate
+﻿// Default Delegate (2):
+    // 1. Action: return type = void (only)
+    // 2. Func: return type = other
 // Example:
     // Method: return type = void
     // Param: string
@@ -15,7 +17,7 @@ class Program
         delegates += sub.Inform;
 
         // Run the delegates
-        delegates.Invoke("Message");
+        delegates.Invoke("Message--");
         // delegates("Message");
 
         // .NET already have default implementation of delegate
@@ -23,17 +25,11 @@ class Program
         // public delegate void Action<T, T1>(T parameter1, T1 parameter2)
         Action<string> del2 = sub.Notification;
         del2 += sub.Inform;
+        del2 += (string a) => { System.Console.WriteLine(a + "-----------"); };
         del2.Invoke("Anything");
 
         Action<int, int> del3 = sub.Add;
         del3.Invoke(2, 3);
-
-        int a = 3;
-        int b = a;
-        int c = b + 2;
-        System.Console.WriteLine(c);
-
-
     }
 }
 public class Subscriber
