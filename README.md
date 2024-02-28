@@ -9,7 +9,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 4 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%204)
 - [Day 5 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%205)
 - [Day 6 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%206)
-- [Day 7-11 Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
+- [Day 7-11: AutoChess Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
 - [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
 
 ### Basic Environment Setup
@@ -60,4 +60,12 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Design pattern reference: Facade.
 - Create abstract/interface for every classes.
 - Create object/class -> GameController -> Cardinality.
+
+### Day 9 Quiz
+- 30 problems: 25 multiple choices & 5 essays.
+- Multiple choices: each 1 point.
+- Essay: each 5 points (add code example - google docs) -> as complete as possible.
+- Maximum 50 points.
+- Duration: 2 hours (1PM - 3PM).
+
 

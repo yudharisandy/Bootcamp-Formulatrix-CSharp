@@ -1,0 +1,14 @@
+Relationship
+- Aggregation: Each object can lives independetnly.
+    - Ex: Departmen o-- Employee.
+- Composition: Each object are not independent.
+    - Ex: Company *-- CompanyLocation.
+- Reliazation: 
+    - A relationship between the blueprint class and the object containing its respective 
+      implementation level details.
+    - Ex: abstract, interface class.
+    - Ex2: IPieces ..|> PiecesCaharacter
+- Dependency
+    - One class (object) contain another class (object)
+    - Ex: Person ..> Book = (Person-class contains book-class)
+    - Ex2: Client ..> Supplier
