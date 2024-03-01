@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OjDonsMQrbXNwvpd4bRMK0DtoDJwHFNiy+n4YTH75cCuSk5Up+WYT6TAzQhaBLYoAkv8r+PkK6gH3GA0u+uDcg==",
+  "dgSpecHash": "8IGrsYndw6grTnRd1F/32RU2blRnD4s1h/Egmz4VCKyXQD5o2sbnyC2XOpNqkLzxw+4zd/Sk4uX9mgdCsxrYfA==",
   "success": true,
-  "projectFilePath": "D:\\bootcamp_batch9\\Day 7\\ProjectA\\ProjectA.csproj",
+  "projectFilePath": "d:\\bootcamp_batch9\\Day 7\\AutoChess\\AutoChess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

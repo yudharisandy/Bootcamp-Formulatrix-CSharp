@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj": {}
+    "d:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj": {}
   },
   "projects": {
-    "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj": {
+    "d:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj",
+        "projectUniqueName": "d:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj",
         "projectName": "Foobar",
-        "projectPath": "D:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj",
+        "projectPath": "d:\\bootcamp_batch9\\Day 6\\Foobar\\Foobar.csproj",
         "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
-        "outputPath": "D:\\bootcamp_batch9\\Day 6\\Foobar\\obj\\",
+        "outputPath": "d:\\bootcamp_batch9\\Day 6\\Foobar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"

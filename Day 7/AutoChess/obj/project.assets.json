@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bootcamp_batch9\\Day 7\\ProjectA\\ProjectA.csproj",
-      "projectName": "ProjectA",
-      "projectPath": "D:\\bootcamp_batch9\\Day 7\\ProjectA\\ProjectA.csproj",
+      "projectUniqueName": "d:\\bootcamp_batch9\\Day 7\\AutoChess\\AutoChess.csproj",
+      "projectName": "AutoChess",
+      "projectPath": "d:\\bootcamp_batch9\\Day 7\\AutoChess\\AutoChess.csproj",
       "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
-      "outputPath": "D:\\bootcamp_batch9\\Day 7\\ProjectA\\obj\\",
+      "outputPath": "d:\\bootcamp_batch9\\Day 7\\AutoChess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"
