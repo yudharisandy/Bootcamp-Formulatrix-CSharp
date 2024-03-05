@@ -72,4 +72,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 
 ### Day 12
 
+### Ludo
+- [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
+
 

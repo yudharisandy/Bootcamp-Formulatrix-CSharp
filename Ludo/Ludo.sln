@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudoGame", "LudoGame\LudoGame.csproj", "{EF4A0B93-75BE-42B6-AFCC-A36A3AD5D8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLudo", "ConsoleLudo\ConsoleLudo.csproj", "{7BFBFA1F-0235-4D2F-A5E0-947BB4A3557F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4A0B93-75BE-42B6-AFCC-A36A3AD5D8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4A0B93-75BE-42B6-AFCC-A36A3AD5D8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4A0B93-75BE-42B6-AFCC-A36A3AD5D8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4A0B93-75BE-42B6-AFCC-A36A3AD5D8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFBFA1F-0235-4D2F-A5E0-947BB4A3557F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFBFA1F-0235-4D2F-A5E0-947BB4A3557F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFBFA1F-0235-4D2F-A5E0-947BB4A3557F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFBFA1F-0235-4D2F-A5E0-947BB4A3557F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
