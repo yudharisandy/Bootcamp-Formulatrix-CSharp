@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringComparison", "StringC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderComparison", "StringBuilderComparison\StringBuilderComparison.csproj", "{413C9B4C-3B87-4C89-9B6E-B19AE5256B39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Destructor", "Destructor\Destructor.csproj", "{BCA5F6E3-51EB-4216-9451-0930F2BA8F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestructorInheritence", "DestructorInheritence\DestructorInheritence.csproj", "{9152699C-3E40-4D8A-B268-A9F3A0D84321}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{413C9B4C-3B87-4C89-9B6E-B19AE5256B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{413C9B4C-3B87-4C89-9B6E-B19AE5256B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{413C9B4C-3B87-4C89-9B6E-B19AE5256B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA5F6E3-51EB-4216-9451-0930F2BA8F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA5F6E3-51EB-4216-9451-0930F2BA8F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA5F6E3-51EB-4216-9451-0930F2BA8F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA5F6E3-51EB-4216-9451-0930F2BA8F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9152699C-3E40-4D8A-B268-A9F3A0D84321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9152699C-3E40-4D8A-B268-A9F3A0D84321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9152699C-3E40-4D8A-B268-A9F3A0D84321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9152699C-3E40-4D8A-B268-A9F3A0D84321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
