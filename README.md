@@ -11,7 +11,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 6 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%206)
 - [Day 7-11: AutoChess Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
 - [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
-- [Ludo Game Project] ()
+- [Ludo Game Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Ludo)
 - [Day 12 Project] 
 
 ### Basic Environment Setup
