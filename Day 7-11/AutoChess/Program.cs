@@ -19,6 +19,7 @@
 public class GameController
 {
     public Dictionary<Player, string> playersPieces;
+    Action<string, int> action = GameController.
     public bool EnterBattleArena(Dictionary<Player, string> playersPieces){
         // .. condition
         foreach(var i in playersPieces){
@@ -31,6 +32,7 @@ public class GameController
     public Dictionary<Player, string> GetPlayersPieces(){
         return playersPieces;
     }
+    public void func1(){}
 }
 public class Player
 {
