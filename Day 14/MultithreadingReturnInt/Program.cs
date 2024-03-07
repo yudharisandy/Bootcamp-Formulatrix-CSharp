@@ -7,13 +7,16 @@ class Program
         int result = 0;
         int resultInt = 0;
         bool status = false;
+
         Thread thread = new Thread(() => Add(3, 4, ref result));
         Thread thread2 = new Thread(() => ChangeStatus(ref status));
         Thread thread3 = new Thread(() => resultInt = AddInt(3, 4));
+
         thread.Start();
         thread2.Start();
         thread3.Start();
         thread.Join();
+        
         System.Console.WriteLine(result);
         System.Console.WriteLine(status);
         System.Console.WriteLine(resultInt);
