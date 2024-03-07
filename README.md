@@ -79,6 +79,9 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
 
 ### Day 13
-- Finally
-- Dispose
+- Finally.
+- Dispose.
+- Conditional Compilation.
+- Watch run.
+- Logging (debug and trace).
 
