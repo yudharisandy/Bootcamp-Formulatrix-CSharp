@@ -9,10 +9,12 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 4 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%204)
 - [Day 5 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%205)
 - [Day 6 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%206)
-- [Day 7-11: AutoChess Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
+- [Day 7-11: AutoChess Class Diagram Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
 - [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
+- [Day 12 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2012)
+- [Day 13 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2013)
+- [Day 14 Project] 
 - [Ludo Game Project](https://github.com/yudharisandy/LudoGame)
-- [Day 12 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2012) 
 
 ### Basic Environment Setup
 - Install a text editor (ex: [VScode](https://code.visualstudio.com/download))
@@ -75,13 +77,17 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Garbage collection
 - Memory profiler tool
 
-### Ludo
-- [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
-
 ### Day 13
 - Finally.
 - Dispose.
 - Conditional Compilation.
 - Watch run.
 - Logging (debug and trace).
+
+### Day 14
+- Multi threading.
+
+### Ludo
+- [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
+
 
