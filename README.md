@@ -13,7 +13,8 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
 - [Day 12 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2012)
 - [Day 13 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2013)
-- [Day 14 Project] 
+- [Day 14 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2014)
+- [Day 15 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2015) 
 - [Ludo Game Project](https://github.com/yudharisandy/LudoGame)
 
 ### Basic Environment Setup
