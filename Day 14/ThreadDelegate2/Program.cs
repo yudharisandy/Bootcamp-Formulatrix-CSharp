@@ -8,10 +8,10 @@ class Program
         del += Mul;
         del += Sub;
 
-        Thread t1 = new(() =>
-            {
-                del(10, 4));
-            }
+        // Thread t1 = new(() =>
+        //     {
+        //         del(10, 4));
+        //     }
         // t1.Priority = ThreadPriority.Highest;
         t1.Start();
         t1.Join();
