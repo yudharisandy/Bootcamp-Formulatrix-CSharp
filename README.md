@@ -86,6 +86,13 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 
 ### Day 14
 - Multi threading.
+- Task.
+- ThreadExceptionHandling.
+
+### Day 15
+- [AsyncGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md#prefer-asyncawait-over-directly-returning-task)
+- Async await.
+- Cancellation token, deadlock, lock mechanism, semaphore.
 
 ### Ludo
 - [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
