@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream", "FileStream\FileStream.csproj", "{7AB96F6A-1211-4B17-8B6B-163AD11E83DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{80F71255-BE67-4303-856F-F63FB6521333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONSerialization", "JSONSerialization\JSONSerialization.csproj", "{1299D2E5-B197-42B5-9E4F-33E4293F0B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLSerialization", "XMLSerialization\XMLSerialization.csproj", "{85B5A8BA-4E12-49C5-9A5E-58B4E72E0AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB96F6A-1211-4B17-8B6B-163AD11E83DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB96F6A-1211-4B17-8B6B-163AD11E83DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB96F6A-1211-4B17-8B6B-163AD11E83DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB96F6A-1211-4B17-8B6B-163AD11E83DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F71255-BE67-4303-856F-F63FB6521333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F71255-BE67-4303-856F-F63FB6521333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F71255-BE67-4303-856F-F63FB6521333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F71255-BE67-4303-856F-F63FB6521333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1299D2E5-B197-42B5-9E4F-33E4293F0B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1299D2E5-B197-42B5-9E4F-33E4293F0B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1299D2E5-B197-42B5-9E4F-33E4293F0B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1299D2E5-B197-42B5-9E4F-33E4293F0B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B5A8BA-4E12-49C5-9A5E-58B4E72E0AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B5A8BA-4E12-49C5-9A5E-58B4E72E0AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B5A8BA-4E12-49C5-9A5E-58B4E72E0AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B5A8BA-4E12-49C5-9A5E-58B4E72E0AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

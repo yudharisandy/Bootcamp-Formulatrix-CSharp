@@ -95,7 +95,12 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Async await.
 - Cancellation token, deadlock, lock mechanism, semaphore.
 
+### Day 16
+- File and Serialization (Path, FileStream, JSON Serialization, XML Serialization)
+
+
 ### Ludo
+- [Repository](https://github.com/yudharisandy/LudoGame)
 - [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
 
 
