@@ -10,7 +10,7 @@ public class Human
 	public int Age; //Variable
 	public Human() 
 	{
-        
+
 	}
 	public Human(string name, int age) 
 	{
@@ -22,27 +22,27 @@ class Program
 {
 	static void Main() 
 	{
-		Human kinara = new Human("Kinara", 25);
-		Human dion = new Human("Dion", 22);
-		Human gracia = new Human("Gracia", 22);
-		Human[] humans = new Human[] { kinara, dion, gracia };
+		// Human kinara = new Human("Kinara", 25);
+		// Human dion = new Human("Dion", 22);
+		// Human gracia = new Human("Gracia", 22);
+		// Human[] humans = new Human[] { kinara, dion, gracia };
 
-		XmlSerializer xmlSerializer = new XmlSerializer(typeof(Human[]));
-		using(StreamWriter sw = new("file.xml")) 
+		// XmlSerializer xmlSerializer = new XmlSerializer(typeof(Human[]));
+		// using(StreamWriter sw = new("file.xml")) 
+		// {
+		// 	xmlSerializer.Serialize(sw, humans);
+		// }
+
+        XmlSerializer xmlSerializer = new XmlSerializer(typeof(Human[]));
+		Human[] result;
+		using(StreamReader sr = new("file.xml")) 
 		{
-			xmlSerializer.Serialize(sw, humans);
+			result = (Human[])xmlSerializer.Deserialize(sr);
 		}
-
-        // XmlSerializer xmlSerializer = new XmlSerializer(typeof(Human[]));
-		// Human[] result;
-		// using(StreamReader sr = new("file.xml")) 
-		// {
-		// 	result = (Human[])xmlSerializer.Deserialize(sr);
-		// }
-		// foreach(var human in result) 
-		// {
-		// 	Console.WriteLine(human.Name);
-		// 	Console.WriteLine(human.Age);
-		// }
+		foreach(var human in result) 
+		{
+			Console.WriteLine(human.Name);
+			Console.WriteLine(human.Age);
+		}
 	}
 }

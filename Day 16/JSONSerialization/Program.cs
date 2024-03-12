@@ -19,9 +19,11 @@ class Program
 		// Human human = new Human("Kinara", 25);
 		// Human human2 = new Human("Dion", 22);
 		// Human human3 = new Human("Gracia", 22);
+
 		// List<Human> humans = new List<Human> { human, human2, human3 };
         
 		// string json = JsonSerializer.Serialize(humans);
+
 		// using(StreamWriter sw = new("file.json")) 
 		// {
 		// 	sw.Write(json);
@@ -32,6 +34,7 @@ class Program
 		{
 			result = sr.ReadToEnd();
 		}
+		// List<Human> humans = JsonSerializer.Deserialize<List<Human>>(result);
 		Human[] humans = JsonSerializer.Deserialize<Human[]>(result);
 		foreach(var human in humans) 
 		{
