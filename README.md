@@ -9,8 +9,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 4 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%204)
 - [Day 5 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%205)
 - [Day 6 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%206)
-- [Day 7-11: AutoChess Class Diagram Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
-- [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
+- [Day 7-11: AutoChess Project](https://gist.github.com/yudharisandy/7c48a17afb739bb6bedc2a24c9c580d2)
 - [Day 12 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2012)
 - [Day 13 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2013)
 - [Day 14 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2014)
@@ -18,6 +17,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 16 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2016) 
 - [Day 17 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2017)
 - [Day 18 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2018)
+- [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
 - [Ludo Game Project](https://github.com/yudharisandy/LudoGame)
 
 ### Basic Environment Setup
