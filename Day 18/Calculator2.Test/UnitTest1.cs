@@ -1,19 +1,21 @@
 namespace Calculator.Test;
 
-// NUnit testing
+// XUnit testing
 
 using CalculatorLib;
 
-public class Tests
+public class CalculatorTests
 {
     private Calculator calculator;
-    [SetUp]
-    public void Setup()
+
+
+    public CalculatorTests()
     {
         calculator = new Calculator();
     }
 
-    [Test]
+
+    [Fact]
     public void Add_ReturnCorrectNumber()
     {
         // 3A
@@ -26,18 +28,19 @@ public class Tests
         int result = calculator.Add(a, b);
 
         // Assert
-        Assert.AreEqual(expected, result);
+        Assert.Equal(expected, result);
     }
 
-    [TestCase(1, 2, 3)]
-    [TestCase(2, 3, 5)]
-    [TestCase(3, 5, 8)]
-    [TestCase(2, 5, 7)]
+    [Theory]
+    [InlineData(1, 2, 3)]
+    [InlineData(2, 3, 5)]
+    [InlineData(3, 5, 8)]
+    [InlineData(2, 5, 7)]
     public void Add_ReturnCorrectNumber_UsingTestCase(int a, int b, int expected){
         // Action
         int result = calculator.Add(a, b);
 
         // Assert
-        Assert.AreEqual(expected, result);
+        Assert.Equal(expected, result);
     }
 }
