@@ -14,7 +14,8 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 12 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2012)
 - [Day 13 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2013)
 - [Day 14 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2014)
-- [Day 15 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2015) 
+- [Day 15 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2015)
+- [Day 16 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2016) 
 - [Ludo Game Project](https://github.com/yudharisandy/LudoGame)
 
 ### Basic Environment Setup
@@ -98,9 +99,18 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 ### Day 16
 - File and Serialization (Path, FileStream, JSON Serialization, XML Serialization)
 
+### Day 17
+- Practice 5 Solid principles.
+
+### Day 18
+- Revise the Ludo Game Project.
+- Logging (NLog, log4net, ).
+- Log as descriptive as possible but not too long
+- [Structured vs String In](https://habr.com/en/articles/591171/)
+- Unit testing (NUnit).
 
 ### Ludo
-- [Repository](https://github.com/yudharisandy/LudoGame)
+- [Game repository](https://github.com/yudharisandy/LudoGame)
 - [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
 
 
