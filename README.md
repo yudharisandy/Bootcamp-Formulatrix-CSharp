@@ -16,6 +16,8 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 14 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2014)
 - [Day 15 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2015)
 - [Day 16 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2016) 
+- [Day 17 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2017)
+- [Day 18 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2018)
 - [Ludo Game Project](https://github.com/yudharisandy/LudoGame)
 
 ### Basic Environment Setup
@@ -104,10 +106,11 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 
 ### Day 18
 - Revise the Ludo Game Project.
-- Logging (NLog, log4net, ).
+- Logging (NLog and log4net).
 - Log as descriptive as possible but not too long
 - [Structured vs String In](https://habr.com/en/articles/591171/)
-- Unit testing (NUnit).
+- Unit testing (NUnit, XUnit, Moq).
+- Final Project Team: Rafif, Yudha, Dayat.
 
 ### Ludo
 - [Game repository](https://github.com/yudharisandy/LudoGame)
