@@ -17,6 +17,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 16 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2016) 
 - [Day 17 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2017)
 - [Day 18 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2018)
+- [Day 19 Project]()
 - [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
 - [Ludo Game Project](https://github.com/yudharisandy/LudoGame)
 
@@ -111,6 +112,9 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Structured vs String In](https://habr.com/en/articles/591171/)
 - Unit testing (NUnit, XUnit, Moq).
 - Final Project Team: Rafif, Yudha, Dayat.
+
+### Day 19
+- EntityFramework and Database.
 
 ### Ludo
 - [Game repository](https://github.com/yudharisandy/LudoGame)
