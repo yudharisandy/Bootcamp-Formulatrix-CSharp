@@ -1,0 +1,15 @@
+Task: 
+Design pattern
+- what is desigtn patterm
+- apa yg perlu dideclare (class diagram)
+- cari use case (snippet of code - before and after using DP)
+- kelemahan design pattern
+
+Yudha: Builder (Creational), Present 6th
+
+Reference for Design Pattern
+Head First Design Patterns
+🎨Design Pattern : https://docs.google.com/document/d/1B79XMGp4a6nDDhRnx-fSKIkPrn11i7U_vumdkqNf0WU/edit
+🖌️Creational Design Pattern : https://docs.google.com/document/d/1LSTLK4IR8glcU5tEZiKxf4tmxRXHMp0TCE8Z9kF8bkg/edit
+C#3.0 Design Patterns - Judith Bishop
+RefactoringGuru or Deep Dive into Design Patterns
