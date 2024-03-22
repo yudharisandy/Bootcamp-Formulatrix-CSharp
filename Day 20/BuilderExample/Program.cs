@@ -7,85 +7,92 @@
 // 5. Call the appropriate methods of the builder object in the director class to create the object.
 // 6. When the object is fully constructed, call the appropriate method of the builder object to retrieve the object.
 
+
 class Program
 {
     static void Main(string[] args)
     {
-        var sportCarBuilder = new SportCarBuilder();
-        var carMaker = new CarMaker(sportCarBuilder);
-        carMaker.MakeCar();
-        var car = sportCarBuilder.GetCar();
-        car.Display();
-
+        var gamingComputerBuilder = new GamingComputerBuilder();
+        var manufacturer = new ComputerManufacturer(gamingComputerBuilder);
+        manufacturer.AssembleComputer();
+        var computer = gamingComputerBuilder.GetComputer();
+        computer.Display();
     }
 }
 
 // Product class
-public class Car
+public class Computer
 {
-    public int EngineHp { get; set; }
-    public string FuelType { get; set; }
-    public int EngineVolume { get; set; }
-
-    // public List<string> Toppings { get; set; } = new List<string>();
+    public string CPU { get; set; }
+    public string GPU { get; set; }
+    public string RAM { get; set; }
+    public string Storage { get; set; }
 
     public void Display()
     {
-        Console.WriteLine($"Engine HP: {EngineHp}");
-        Console.WriteLine($"Fuel Type: {FuelType}");
-        Console.WriteLine($"Engine Volume: {EngineVolume}");
+        Console.WriteLine($"CPU: {CPU}");
+        Console.WriteLine($"GPU: {GPU}");
+        Console.WriteLine($"RAM: {RAM}");
+        Console.WriteLine($"Storage: {Storage}");
     }
 }
 
 // Builder interface
-public interface ICarBuilder
+public interface IComputerBuilder
 {
-    void AddEngineHP(int engineHp);
-    void AddFuelType(string fuelType);
-    void AddEngineVolume(int engineVolume);
-    Car GetCar();
+    void BuildCPU();
+    void BuildGPU();
+    void BuildRAM();
+    void BuildStorage();
+    Computer GetComputer();
 }
 
 // Concrete builder
-public class SportCarBuilder : ICarBuilder
+public class GamingComputerBuilder : IComputerBuilder
 {
-    private Car _car = new Car();
+    private Computer _computer = new Computer();
 
-    public void AddEngineHP(int engineHp)
+    public void BuildCPU()
     {
-        _car.EngineHp = engineHp;
+        _computer.CPU = "Intel Core i9";
     }
 
-    public void AddFuelType(string fuelType)
+    public void BuildGPU()
     {
-        _car.FuelType = fuelType;
+        _computer.GPU = "NVIDIA GeForce RTX 3080";
     }
 
-    public void AddEngineVolume(int engineVolume)
+    public void BuildRAM()
     {
-        _car.EngineVolume = engineVolume;
+        _computer.RAM = "32GB DDR4";
     }
 
-    public Car GetCar()
+    public void BuildStorage()
     {
-        return _car;
+        _computer.Storage = "1TB NVMe SSD";
+    }
+
+    public Computer GetComputer()
+    {
+        return _computer;
     }
 }
 
 // Director class
-public class CarMaker
+public class ComputerManufacturer
 {
-    private readonly ICarBuilder _builder;
+    private readonly IComputerBuilder _builder;
 
-    public CarMaker(ICarBuilder builder)
+    public ComputerManufacturer(IComputerBuilder builder)
     {
         _builder = builder;
     }
 
-    public void MakeCar()
+    public void AssembleComputer()
     {
-        _builder.AddEngineHP(769);
-        _builder.AddFuelType("Gasoline");
-        _builder.AddEngineVolume(6498);
+        _builder.BuildCPU();
+        _builder.BuildGPU();
+        _builder.BuildRAM();
+        _builder.BuildStorage();
     }
 }

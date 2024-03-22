@@ -18,7 +18,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Day 17 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2017)
 - [Day 18 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2018)
 - [Day 19 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2019)
-- [Day 20 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2020)
+- [Day 20-21 Project](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/Day%2020)
 - [Midterm Exercise](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/tree/main/MidTermExercise)
 - [Ludo Game Project](https://github.com/yudharisandy/LudoGame)
 
@@ -122,7 +122,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - Design Pattern.
 
 ### Ludo
-- [Game repository](https://github.com/yudharisandy/LudoGame)
+- [Game project repository](https://github.com/yudharisandy/LudoGame)
 - [Class diagram](https://github.com/probabilitynokami/ClassDiagram)
 
 
