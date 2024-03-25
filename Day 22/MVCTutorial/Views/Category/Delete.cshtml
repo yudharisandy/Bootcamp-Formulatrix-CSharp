@@ -1,0 +1,14 @@
+@model Category
+<h1>Delete Category</h1>
+
+<form method="post">
+    <div class="form-group">
+        <input asp-for="CategoryId" type="hidden" />
+        <label asp-for="CategoryName">Category Name</label>
+        <input readonly asp-for="CategoryName" type="text" class="form-control" placeholder="Enter category">
+        <label asp-for="Description">Description</label>
+        <input readonly asp-for="Description" type="text" class="form-control" placeholder="Enter category">
+    </div>
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <a asp-action="Index" class="btn btn-info">Cancel</a>
+</form>

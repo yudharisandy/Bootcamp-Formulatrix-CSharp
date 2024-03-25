@@ -113,13 +113,50 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 - [Structured vs String In](https://habr.com/en/articles/591171/)
 - Unit testing (NUnit, XUnit, Moq).
 - Final Project Team: Rafif, Yudha, Dayat.
+- Logging/Severity level: Trace = 0 | Debug = 1 | Information = 2 | Warning = 3 | Error = 4.
+- Better use structured logging than string interpolation.
 
 ### Day 19
-- EntityFramework and Database.
+- [EntityFramework: Database framework](https://miro.com/app/board/uXjVKe03v8M=/).
+- Database packages: 
+    - ```Microsoft.EntityFrameworkCore```
+    - ```Microsoft.EntityFrameworkCore.Sqlite```
+    - ```Microsoft.EntityFrameworkCore.Design```
 
-### Day 20
+### Day 20 - 21
 - Gitflow.
 - Design Pattern.
+
+### Day 22
+- ASP.Net : Web development framework
+    - WebAPI
+    - WebMVC
+        - ```dotnet new mvc``` or add package ```ASP.NET Core Web App (Model View Controller)```.
+        - ```dotnet watch run```: To update changes directly when program is running.
+        - Add new pages:
+            - Modify ```_layout.cshtml```
+            - Create new Category controller in ```./Controller/CategoryController.cs```
+            - Create new file ```./Views/Category/Index.cshtml```.
+            - Connect with database
+                - Inside ```./Models/Category.cs```
+                - Inside ```./Models/Product.cs```
+                - Create ```./Data/DataContext.cs``` : Assign to database (create file.db)
+                - Add new builder ```builder.Service.AddDbContext<DataContext>(options => {options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"))})``` in ```Program.cs```.
+                - Modify ```appsettings.json``` to declare the database name and save all credentials name/data (don't be uploaded to public github, assign to```.gitignore```).
+                - Add seeding data to database, in ```./Data/DataContext.cs```.
+                - Build data context -> Create ```./Migrations``` -> ```dotnet ef migrations add "Initial Create"```
+                - ```dotnet ef database update``` -> build database.
+                - Add logic of datbase in ```CategoryController.cs``` to gather all of the data.
+                - Add receiving logic in ```./Views/Category/Index.cshtml```.
+            - Add button in a page (Create button):
+                - Add button or other attributes in ```Views/.../Index.cshtml```
+                - Add ```./Views/Category/Create.cshtml``` : A new page.
+                - Create a new method in ```./Controller/CategoryController.cs``` : Action when the button is pushed.
+        - TempData: modify in beckend ```./Controller/CategoryController.cs``` and in ```./Views/Category/Index.cshtmml```.
+        - Icon: [getbootstrap](https://icons.getbootstrap.com/). Get the SVG HTML format, paste to the ```Index.html``` inside the ancor ```<a>here</a>```
+
+
+    - Razor Dages (SPA)
 
 ### Ludo
 - [Game project repository](https://github.com/yudharisandy/LudoGame)
