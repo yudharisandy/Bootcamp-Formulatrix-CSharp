@@ -1,8 +1,11 @@
+using System.ComponentModel;
+
 namespace MVCTutorial.Models;
 
 public class Category
 {
 	public int CategoryId { get; set; }
+	// [DisplayName("Cek")]
 	public string CategoryName { get; set; } = null!;
 	public string? Description { get; set; }
 	public ICollection<Product> Products { get; set; }
