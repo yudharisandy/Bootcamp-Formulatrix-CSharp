@@ -119,6 +119,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
 
 ### Day 19
 - [EntityFramework: Database framework](https://miro.com/app/board/uXjVKe03v8M=/).
+- [EntityFramework.pdf](./Archive/EntityFramework.pdf)
 - Database packages: 
     - ```Microsoft.EntityFrameworkCore```
     - ```Microsoft.EntityFrameworkCore.Sqlite```
@@ -155,9 +156,22 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
                 - Create a new method in ```./Controller/CategoryController.cs``` : Action when the button is pushed.
         - TempData: modify in beckend ```./Controller/CategoryController.cs``` and in ```./Views/Category/Index.cshtmml```.
         - Icon: [getbootstrap](https://icons.getbootstrap.com/). Get the SVG HTML format, paste to the ```Index.html``` inside the ancor ```<a>here</a>```
-
-
     - Razor Dages (SPA)
+
+### Day 23
+- ASP.Net : Web development framework
+    - Web API: Application Programming Interface.
+        - Material: Miro
+        - Common interface between two different system
+        - REST API
+        - Software API Tools: PostMan, PostMan-VScode, ThunderClient-VSCode, Swagger
+            - Use Swagger: localhost:port/swagger
+        - Package: ASP.NET Core Web API
+        - Create ```./Controllers/CategoryController.cs```, add ```[Route("api/[controller])]``` -> add ```builder.Services.AddCOntroller``` in ```Program.cs```
+        
+        
+Notes:
+    - JSON: Key value pair
 
 ### Ludo
 - [Game project repository](https://github.com/yudharisandy/LudoGame)
