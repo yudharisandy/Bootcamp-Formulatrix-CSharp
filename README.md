@@ -176,8 +176,7 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
     - Quick thinking and look
     - Divide and Conquer
     - Change One Thing at a Time
-
-
+    - [More notes]()
 
 ### Ludo
 - [Game project repository](https://github.com/yudharisandy/LudoGame)
