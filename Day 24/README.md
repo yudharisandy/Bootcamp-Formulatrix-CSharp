@@ -28,7 +28,6 @@ Debugging is must-have skill by SE, it will useful for identifying and fixing pr
 
 
 ## References:
-- [[Book Review] Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems](https://www.tygertec.com/9-rules-debugging)
-- 
+- [[Book Review] Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems](https://www.tygertec.com/9-rules-debugging).
 
 
