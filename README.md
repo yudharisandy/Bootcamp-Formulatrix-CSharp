@@ -168,10 +168,16 @@ The Bootcamp is being conducted at Formulatrix Indonesia, Salatiga City, Indones
             - Use Swagger: localhost:port/swagger
         - Package: ASP.NET Core Web API
         - Create ```./Controllers/CategoryController.cs```, add ```[Route("api/[controller])]``` -> add ```builder.Services.AddCOntroller``` in ```Program.cs```
-        
-        
-Notes:
-    - JSON: Key value pair
+        - [More notes](https://github.com/yudharisandy/Bootcamp-Formulatrix-CSharp/blob/main/Day%2022-23/WebAPITutorial/README.md)
+
+### Day 24
+- Debugging technique: each person explains three techniques.
+- Mine (5th present): 
+    - Quick thinking and look
+    - Divide and Conquer
+    - Change One Thing at a Time
+
+
 
 ### Ludo
 - [Game project repository](https://github.com/yudharisandy/LudoGame)
